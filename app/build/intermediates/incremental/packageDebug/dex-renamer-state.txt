@@ -1,0 +1,7 @@
+#Tue Nov 15 10:58:11 CST 2016
+base.0=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fc065cde7a39ae52aaf0bd88cd3287e9f275963
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c98ce41acfdb0388d2e9c644fde91f40f44d2252/classes.dex
+base.1=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c98ce41acfdb0388d2e9c644fde91f40f44d2252
+file.0=/Users/giovanni/AndroidStudioProjectsB15/OpenGL10_Example3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6fc065cde7a39ae52aaf0bd88cd3287e9f275963/classes.dex
